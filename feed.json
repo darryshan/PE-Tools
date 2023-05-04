@@ -1,0 +1,29 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Prompt Engineering Tools",
+    "description": "",
+    "home_page_url": "https://darryshan.github.io/PE-Tools",
+    "feed_url": "https://darryshan.github.io/PE-Tools/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Sunil"
+    },
+    "items": [
+        {
+            "id": "https://darryshan.github.io/PE-Tools/tool-01/",
+            "url": "https://darryshan.github.io/PE-Tools/tool-01/",
+            "title": "Tool 01",
+            "summary": "This is an amazing tool and we wish to see it soon on the store. This is going to be&hellip;",
+            "content_html": "<p>This is an amazing tool and we wish to see it soon on the store. This is going to be an amazing tool and we hope you enjoy it</p>",
+            "image": "https://darryshan.github.io/PE-Tools/media/posts/1/Samsung-Clamps-Down-on-AI-Tools-Are-Security-Concerns-Derailing-the-Generative-AI-Revolution.jpg",
+            "author": {
+                "name": "Sunil"
+            },
+            "tags": [
+                   "Embeddings"
+            ],
+            "date_published": "2023-05-04T16:35:23-04:00",
+            "date_modified": "2023-05-04T16:45:53-04:00"
+        }
+    ]
+}

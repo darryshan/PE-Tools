@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Prompt Engineering Tools</title>
+    <link href="https://darryshan.github.io/PE-Tools/feed.xml" rel="self" />
+    <link href="https://darryshan.github.io/PE-Tools" />
+    <updated>2023-05-04T16:45:53-04:00</updated>
+    <author>
+        <name>Sunil</name>
+    </author>
+    <id>https://darryshan.github.io/PE-Tools</id>
+
+    <entry>
+        <title>Tool 01</title>
+        <author>
+            <name>Sunil</name>
+        </author>
+        <link href="https://darryshan.github.io/PE-Tools/tool-01/"/>
+        <id>https://darryshan.github.io/PE-Tools/tool-01/</id>
+        <media:content url="https://darryshan.github.io/PE-Tools/media/posts/1/Samsung-Clamps-Down-on-AI-Tools-Are-Security-Concerns-Derailing-the-Generative-AI-Revolution.jpg" medium="image" />
+            <category term="Embeddings"/>
+
+        <updated>2023-05-04T16:45:53-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://darryshan.github.io/PE-Tools/media/posts/1/Samsung-Clamps-Down-on-AI-Tools-Are-Security-Concerns-Derailing-the-Generative-AI-Revolution.jpg" alt="" />
+                    This is an amazing tool and we wish to see it soon on the store. This is going to be&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://darryshan.github.io/PE-Tools/media/posts/1/Samsung-Clamps-Down-on-AI-Tools-Are-Security-Concerns-Derailing-the-Generative-AI-Revolution.jpg" class="type:primaryImage" alt="" /></p>
+                <p>This is an amazing tool and we wish to see it soon on the store. This is going to be an amazing tool and we hope you enjoy it</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
