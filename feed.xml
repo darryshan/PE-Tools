@@ -3,12 +3,45 @@
     <title>Prompt Engineering Tools</title>
     <link href="https://darryshan.github.io/PE-Tools/feed.xml" rel="self" />
     <link href="https://darryshan.github.io/PE-Tools" />
-    <updated>2023-05-04T16:45:53-04:00</updated>
+    <updated>2023-05-04T21:26:21-04:00</updated>
     <author>
         <name>Sunil</name>
     </author>
     <id>https://darryshan.github.io/PE-Tools</id>
 
+    <entry>
+        <title>ChatGPT for YouTube Chrome Extension</title>
+        <author>
+            <name>Sunil</name>
+        </author>
+        <link href="https://darryshan.github.io/PE-Tools/chatgpt-for-youtube-chrome-extension/"/>
+        <id>https://darryshan.github.io/PE-Tools/chatgpt-for-youtube-chrome-extension/</id>
+        <media:content url="https://darryshan.github.io/PE-Tools/media/posts/2/unnamed.jpg" medium="image" />
+            <category term="ChatGPT"/>
+
+        <updated>2023-05-04T21:26:21-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://darryshan.github.io/PE-Tools/media/posts/2/unnamed.jpg" alt="" />
+                    In today's fast-paced world, time is of the essence. We're always on the lookout for ways to learn and acquire&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://darryshan.github.io/PE-Tools/media/posts/2/unnamed.jpg" class="type:primaryImage" alt="" /></p>
+                <p>In today's fast-paced world, time is of the essence. We're always on the lookout for ways to learn and acquire information more efficiently. This is where ChatGPT for YouTube comes in – a game-changer that allows users to quickly grasp the essence of a video without having to watch the entire thing. Wait, you say, what exactly is ChatGPT for YouTube, and how does it work? Let's dive in and explore the world of AI-driven video summaries.</p>
+<p><em>ChatGPT: The AI-Powered Solution for Video Summaries</em></p>
+<p>ChatGPT for YouTube is an innovative plugin that uses the advanced AI capabilities of ChatGPT to swiftly summarize the key points of a video. It can be used for various types of content, including courses, tutorials, news, product feature introductions, interviews, and academic seminars. This cutting-edge tool lets you glean the most important information from videos and save time, without the risk of getting lost in irrelevant content.</p>
+<p><em>Using ChatGPT for YouTube: A Breeze for Users</em></p>
+<p>Utilizing ChatGPT for YouTube is as easy as pie! After installing the plugin, simply open a YouTube video and give it a few seconds. The text summary of the video will appear on the right side of the player, ready for you to read and digest. What's more, you can copy the transcript with just one click, making it simple to retain and share the information. We credit the developers for creating a user-friendly tool that makes life easier for busy individuals.</p>
+<p><em>No ChatGPT Account? No Problem!</em></p>
+<p>Worried about needing a ChatGPT or OpenAI account to use this extension? Fret not! There's no need to have an account to access ChatGPT for YouTube's features. The plugin is designed to be accessible and convenient for everyone, regardless of their affiliation with ChatGPT or OpenAI.</p>
+<p><em>Feedback and Questions: Keeping the Lines of Communication Open</em></p>
+<p>The developers of ChatGPT for YouTube understand the importance of continuous improvement and maintaining a connection with their user base. They encourage feedback and questions, which can be sent to their dedicated email address (<a href="mailto:sofiyadoremi@gmail.com" target="_new">sofiyadoremi@gmail.com</a>). By listening to users' needs and concerns, the team behind ChatGPT for YouTube can refine their product and make it even better, benefiting all those who rely on it for efficient content consumption.</p>
+<p>In conclusion, ChatGPT for YouTube is transforming the way we consume and process information. With its user-friendly interface and powerful AI-driven capabilities, it's set to become an indispensable tool for those who want to learn and grow in a time-efficient manner. So, are you ready to save time and learn quicker? Give ChatGPT for YouTube a try and experience the difference it can make in your content consumption journey.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Tool 01</title>
         <author>
@@ -17,9 +50,19 @@
         <link href="https://darryshan.github.io/PE-Tools/tool-01/"/>
         <id>https://darryshan.github.io/PE-Tools/tool-01/</id>
         <media:content url="https://darryshan.github.io/PE-Tools/media/posts/1/Samsung-Clamps-Down-on-AI-Tools-Are-Security-Concerns-Derailing-the-Generative-AI-Revolution.jpg" medium="image" />
+            <category term="Vector Database"/>
+            <category term="Stable Diffusion"/>
+            <category term="Prompting"/>
+            <category term="Prompt Optimisation"/>
+            <category term="Prompt Library"/>
+            <category term="Prompt Generation"/>
+            <category term="MidJourney"/>
+            <category term="GPT-4"/>
+            <category term="Fine-tuning"/>
             <category term="Embeddings"/>
+            <category term="ChatGPT"/>
 
-        <updated>2023-05-04T16:45:53-04:00</updated>
+        <updated>2023-05-04T21:07:52-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://darryshan.github.io/PE-Tools/media/posts/1/Samsung-Clamps-Down-on-AI-Tools-Are-Security-Concerns-Derailing-the-Generative-AI-Revolution.jpg" alt="" />
