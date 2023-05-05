@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Prompt Engineering Tools</title>
-    <link href="https://darryshan.github.io/PE-Tools/feed.xml" rel="self" />
-    <link href="https://darryshan.github.io/PE-Tools" />
+    <link href="https://tools.promptengineering.org/feed.xml" rel="self" />
+    <link href="https://tools.promptengineering.org" />
     <updated>2023-05-04T21:44:13-04:00</updated>
     <author>
         <name>Sunil</name>
     </author>
-    <id>https://darryshan.github.io/PE-Tools</id>
+    <id>https://tools.promptengineering.org</id>
 
     <entry>
         <title>ChatGPT for YouTube Chrome Extension</title>
         <author>
             <name>Sunil</name>
         </author>
-        <link href="https://darryshan.github.io/PE-Tools/chatgpt-for-youtube-chrome-extension/"/>
-        <id>https://darryshan.github.io/PE-Tools/chatgpt-for-youtube-chrome-extension/</id>
+        <link href="https://tools.promptengineering.org/chatgpt-for-youtube-chrome-extension/"/>
+        <id>https://tools.promptengineering.org/chatgpt-for-youtube-chrome-extension/</id>
             <category term="ChatGPT"/>
 
         <updated>2023-05-04T21:44:13-04:00</updated>
@@ -45,9 +45,9 @@
         <author>
             <name>Sunil</name>
         </author>
-        <link href="https://darryshan.github.io/PE-Tools/tool-01/"/>
-        <id>https://darryshan.github.io/PE-Tools/tool-01/</id>
-        <media:content url="https://darryshan.github.io/PE-Tools/media/posts/1/Samsung-Clamps-Down-on-AI-Tools-Are-Security-Concerns-Derailing-the-Generative-AI-Revolution.jpg" medium="image" />
+        <link href="https://tools.promptengineering.org/tool-01/"/>
+        <id>https://tools.promptengineering.org/tool-01/</id>
+        <media:content url="https://tools.promptengineering.org/media/posts/1/Samsung-Clamps-Down-on-AI-Tools-Are-Security-Concerns-Derailing-the-Generative-AI-Revolution.jpg" medium="image" />
             <category term="Vector Database"/>
             <category term="Stable Diffusion"/>
             <category term="Prompting"/>
@@ -63,13 +63,13 @@
         <updated>2023-05-04T21:07:52-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://darryshan.github.io/PE-Tools/media/posts/1/Samsung-Clamps-Down-on-AI-Tools-Are-Security-Concerns-Derailing-the-Generative-AI-Revolution.jpg" alt="" />
+                        <img src="https://tools.promptengineering.org/media/posts/1/Samsung-Clamps-Down-on-AI-Tools-Are-Security-Concerns-Derailing-the-Generative-AI-Revolution.jpg" alt="" />
                     This is an amazing tool and we wish to see it soon on the store. This is going to be&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://darryshan.github.io/PE-Tools/media/posts/1/Samsung-Clamps-Down-on-AI-Tools-Are-Security-Concerns-Derailing-the-Generative-AI-Revolution.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://tools.promptengineering.org/media/posts/1/Samsung-Clamps-Down-on-AI-Tools-Are-Security-Concerns-Derailing-the-Generative-AI-Revolution.jpg" class="type:primaryImage" alt="" /></p>
                 <p>This is an amazing tool and we wish to see it soon on the store. This is going to be an amazing tool and we hope you enjoy it</p>
             ]]>
         </content>
