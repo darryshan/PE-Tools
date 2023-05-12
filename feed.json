@@ -11,20 +11,6 @@
     },
     "items": [
         {
-            "id": "https://tools.promptengineering.org/profile/",
-            "url": "https://tools.promptengineering.org/profile/",
-            "title": "Profile",
-            "summary": "John Doe Lorem ipsum dolor sit amet, consectetur adipiscing elit. Specialties: Front-end, Back-end, UI/UX Lorem ipsum dolor sit amet, consectetur&hellip;",
-            "content_html": "<!-- Begin Snippet: Profile -->\n<div class=\"grid-container\">\n<div class=\"profile-container\"><figure class=\"profile-image\"><img loading=\"lazy\"  src=\"https://via.placeholder.com/100\" alt=\"User Image\" data-is-external-image=\"true\"></figure>\n<h2 class=\"profile-name\">John Doe</h2>\n<p class=\"profile-description\">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>\n<p class=\"profile-specialties\">Specialties: Front-end, Back-end, UI/UX</p>\n<div class=\"profile-checks\">\n<div class=\"profile-check\">Verified<span class=\"profile-check-icon\">✔️</span></div>\n<div class=\"profile-check\">Certified<span class=\"profile-check-icon\">✔️</span></div>\n</div>\n</div>\n<div class=\"right-column\">\n<h2>Right Column Heading</h2>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.</p>\n</div>\n</div>\n<!-- End Snippet: Profile -->",
-            "author": {
-                "name": "Sunil"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-05-11T20:59:57-04:00",
-            "date_modified": "2023-05-11T21:01:50-04:00"
-        },
-        {
             "id": "https://tools.promptengineering.org/chatgpt-for-youtube-chrome-extension/",
             "url": "https://tools.promptengineering.org/chatgpt-for-youtube-chrome-extension/",
             "title": "ChatGPT for YouTube Chrome Extension",
