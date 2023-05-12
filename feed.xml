@@ -3,12 +3,48 @@
     <title>Prompt Engineering Tools</title>
     <link href="https://tools.promptengineering.org/feed.xml" rel="self" />
     <link href="https://tools.promptengineering.org" />
-    <updated>2023-05-04T21:44:13-04:00</updated>
+    <updated>2023-05-11T21:01:50-04:00</updated>
     <author>
         <name>Sunil</name>
     </author>
     <id>https://tools.promptengineering.org</id>
 
+    <entry>
+        <title>Profile</title>
+        <author>
+            <name>Sunil</name>
+        </author>
+        <link href="https://tools.promptengineering.org/profile/"/>
+        <id>https://tools.promptengineering.org/profile/</id>
+
+        <updated>2023-05-11T21:01:50-04:00</updated>
+            <summary>
+                <![CDATA[
+                    John Doe Lorem ipsum dolor sit amet, consectetur adipiscing elit. Specialties: Front-end, Back-end, UI/UX Lorem ipsum dolor sit amet, consectetur&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <!-- Begin Snippet: Profile -->
+<div class="grid-container">
+<div class="profile-container"><figure class="profile-image"><img loading="lazy"  src="https://via.placeholder.com/100" alt="User Image" data-is-external-image="true"></figure>
+<h2 class="profile-name">John Doe</h2>
+<p class="profile-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+<p class="profile-specialties">Specialties: Front-end, Back-end, UI/UX</p>
+<div class="profile-checks">
+<div class="profile-check">Verified<span class="profile-check-icon">✔️</span></div>
+<div class="profile-check">Certified<span class="profile-check-icon">✔️</span></div>
+</div>
+</div>
+<div class="right-column">
+<h2>Right Column Heading</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.</p>
+</div>
+</div>
+<!-- End Snippet: Profile -->
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>ChatGPT for YouTube Chrome Extension</title>
         <author>
